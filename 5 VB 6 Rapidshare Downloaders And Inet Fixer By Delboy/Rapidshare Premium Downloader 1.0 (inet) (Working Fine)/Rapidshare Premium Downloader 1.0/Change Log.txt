@@ -1,0 +1,28 @@
+============================================
+       1.0 Build 2 - 22 December 2008
+============================================
+1) Added Silent Download
+2) Added Save Location Option
+3) Added Updater And Fixed Updater Bugs
+4) Fixed Bugs in Built In And Your Own.
+5) Added Auto Center (due to the diffrent
+size screens on one program may be at the 
+bottom and on another in the middle i added 
+auto center so it centers per your screen)
+
+============================================
+       1.0 Build 1 - 21 December 2008
+============================================
+1) Recoded In Inet
+2) Added Rotate Account Feature
+
+============================================
+       0.92 Build 2 - 22 September 2008
+============================================
+1) Added New Accounts
+
+============================================
+       0.92 Build 1 - 21 September 2008
+============================================
+1) Added Internet Explorer Rapidshare Login
+2) Added Internet Explorer Download 

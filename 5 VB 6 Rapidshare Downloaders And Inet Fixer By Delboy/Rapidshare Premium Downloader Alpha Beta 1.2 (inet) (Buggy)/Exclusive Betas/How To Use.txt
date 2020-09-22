@@ -1,0 +1,24 @@
+How To Use Built In
+--------------------
+1) Put Links In linklist.txt Located In The Same Folder As The Exe
+2) Run Exe
+3) Click Load List
+4) If you are multiple downloading e.g with more than 1 then choose auto option, else choose manual.
+5) for auto read 5a for manual read 5b
+5a) if you choose auto then when you are able to click dowload then do so.
+5b) if you choose Manual, then enter the file name then when you are able to click dowload then do so.
+6) Wait for message box telling you all parts have finished.
+
+note: when it uses auto name e.g keeps the original name, it names the files with the rs link and the name
+e.g 
+
+How To Use Your Own
+--------------------
+1) click login
+2) enter link
+3) click download
+4) repeat for more than 1 link.
+5) when finished click logout.
+
+Use Your Own has not got multi download added yet or any of the other nice built in changes but
+by public it will have.... lol

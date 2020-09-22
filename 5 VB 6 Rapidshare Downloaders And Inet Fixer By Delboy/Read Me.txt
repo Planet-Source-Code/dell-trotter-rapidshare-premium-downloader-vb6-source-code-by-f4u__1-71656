@@ -1,0 +1,138 @@
+        d88888b d8888b. d88888b d88888b   d88888b  .d88b.  d8888b. 
+        88'     88  `8D 88'     88'       88'     .8P  Y8. 88  `8D   
+        88ooo   88oobY' 88ooooo 88ooooo   88ooo   88    88 88oobY' 
+        88      88`8b   88      88        88      88    88 88`8b   
+        88      88 `88. 88.     88.       88      `8b  d8' 88 `88. 
+        YP      88   YD Y88888P Y88888P   YP       `Y88P'  88   YD 
+                                                           
+                      db    db  .d88b.  db    db 
+                      `8b  d8' .8P  Y8. 88    88 
+                       `8bd8'  88    88 88    88 
+                         88    88    88 88    88 
+                         88    `8b  d8' 88b  d88 
+                         YP     `Y88P'  ~Y8888P'                                  
+ 
+³ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ³
+³                              Proudly Presents:                              ³
+³ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-~~~~~~~~~~~~~~~~~-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ³
+³                                                                             ³
+³               Rapidshare Downloader ALL VERSIONS Source Code BY F4U         ³
+³                                                                             ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ³
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+³                             Release Info:                                   ³
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+³                                                                             ³
+³  Programmed By..: Delboy (F4U)            Release Date....: 18/01/2008      ³
+³  Supplied By....: Delboy (F4U)            Release Type....: VB6 Source Code ³
+³                                                                             ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ³
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+³                                 Product Info:                               ³
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Description 
+~~~~~~~~~~~
+This is The Source code to all the versions of the free for you
+rapidshare downloader, even the unreleased versions.
+
+Rapidshare Premium Downloader 1.0 (inet) Is Working Fine.
+
+Rapidshare Premium Downloader Alpha Beta 1.2 (inet) Is buggy on multi
+due to a mathmatical calcuation problem on the below line
+"DownloadProgress (Round((lngBytesReceived / lngFileLength) * 100))"
+
+Rapidshare Premium Downloader Beta 0.92 (ie version) Works Ok but is fairly
+buggy, and uses ie, and i abandoned the ie versions due to the accounts
+being easily stolen.
+
+Rapidshare Premium Downloader Beta 0.1 (ie version)  Works Ok but is fairly
+buggy, was never released, instread i made some changes and went
+straight to 0.9.
+
+Inet Fixer is Seriously Buggy, to the point it does not work properly, 
+released without testing to try and fix the inet bugs but had problems
+so everyone used manual solution instead. all becuase in my haste to release
+i forgot to a slash lol, well its added now but still buggy so i will leave all
+that to you.
+
+
+FOR THE UPDATER TO WORK
+--------------------------
+Upload the "update" folder to your server and add the url on the updater form.
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+³                               PROJECT INFO:                                 ³
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+THIS RAPIDSHARE DOWNLOADER PROJECT IS ABANDONED, HENCE THE DECISION TO 
+MAKE THE CODE OPEN SOURCE, FEEL FREE TO USE IT HOW YOU WISH
+AND HOW YOU SEE FIT, JUST DO NOT USE MY CODE FOR MALICIOUS PURPOSES AND
+IF DO NOT FORGET TO THANK ME IN YOUR NFO OR READ ME.
+
+DO NOT USE FOR MALICIOUS PURPOSES.
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+³                              Greets Fly Out To:                             ³
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Special Thanks Flys Out To..: Coffee Man For His Brilliant Help And Advice,
+And Liandri For There Help Making Installers.
+Greets Fly Out To...........: THETA,TAC-CM And All Of F4U Team.
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+³                               About Us:                                     ³
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+F4U (Free For You) has been making releases since 2006, we are not the
+biggest or the best release group out there, BUT WE TRY OUR BEST AT ALL TIMES.
+
+Want To Join Our Group ?
+We Have Many Devisisons Inside out group we have a cracking devision, Multi
+Media devision and last but not least a music devision
+
+#########################################
+# What We Need in the cracking devision # 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                 
+1. Tellented Or Trainee Crackers
+
+############################################
+# What We Need in the Multi Media devision #
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+1. Tallented/Trainee Encoders
+2. Tallented/Trainee Audio Syncers
+3. Tallented/Trainee Kodak's CAP Code Removers
+4. Tallented/Trainee Deluxe's CAP Code Removers
+5. Tallented/Trainee Watermark Removers
+6. Tallented/Trainee CineFence Protection
+7. People Who Can Supply DVD/VHS Screeners
+8. People Who Can Supply Pre-Release DVD's
+9. People Who Can Supply Telesync
+20. People Who Can Supply Telecine
+11. People Who Can Supply R5
+12. People Who Can Supply DVD Silvers
+13. People Who Can Supply Pre-Air VHS/DVD's
+14. People Who Can Caputure TV
+
+#########################################
+# What We Need in the Music devision    #
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+1. Tellented Encoders
+2. People Who Can Supply Pre-Release Music
+
+############
+# Our Team #
+~~~~~~~~~~~~
+1. Delboy (2006-????) Founder/Trainee Tv Capper/Trainee Encoder/Trainee Cracker/Trainee Watermark Remover
+2. Deep (2006-????) Co Founder/Trainee Cracker/Trainee Tv Capper
+3. Manifest  (2006-????) Programmer
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+³                            Contacting Us:                                   ³
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Email..: f4u@freesoftwarealliance.com
+Web....: www.freesoftwarealliance.com
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
